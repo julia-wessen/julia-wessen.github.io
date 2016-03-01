@@ -4,7 +4,7 @@
     </head>
 
 <body>
-This was created from "Portfolio Item" created by Start Bootstrap. 
+This was created from "Portfolio Item" created by Start Bootstrap. I added a few modifications in order to improve the page to my necessities. 
 <hr>
 <p>Portfolio Item is an individual portfolio item template for Bootstrap created by Start Bootstrap.</p>
 <p>Start Bootstrap was created by and is maintained by <a href="https://github.com/davidtmiller">David Miller</a>, Owner of Blackrock Digital </p>
